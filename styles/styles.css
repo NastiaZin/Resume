@@ -256,8 +256,8 @@ body{
 ::-webkit-scrollbar {
     width: 5px;
     background-color: #FAF5F5;
-  }
+}
   
 ::-webkit-scrollbar-thumb {
     background-color: #3F0000;
-  }
+}
